@@ -1,5 +1,6 @@
 body {
     background-color: grey;
+    font-size: medium;
 }
 
 #bmi_result {
@@ -15,3 +16,4 @@ body {
     border-radius: 1rem;
     padding: 1.4rem 2.2rem;
 }
+
